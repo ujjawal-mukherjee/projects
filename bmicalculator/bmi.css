@@ -1,0 +1,75 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(bmif.jpeg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.heading1 {
+    text-align: center;
+    color: red;
+}
+
+.para1 {
+    text-decoration: underline;
+    color: red;
+}
+
+.para2 {
+    text-decoration: underline;
+    color: red;
+}
+
+#weight-guide {
+    text-align: center;
+}
+
+.heading2 {
+    color: red;
+}
+
+#height:hover {
+    color: skyblue;
+    background-color: black;
+}
+
+#weight:hover {
+    color: skyblue;
+    background-color: black;
+}
+
+#bid:hover {
+    width: 80px;
+    height: 20px;
+    color: skyblue;
+    background-color: black;
+}
+
+#result {
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+}
+
+.para3 {
+    color: red;
+}
+
+.para4 {
+    color: red;
+}
+
+.para5 {
+    color: red;
+}
+
+.para6 {
+    color: red;
+}
